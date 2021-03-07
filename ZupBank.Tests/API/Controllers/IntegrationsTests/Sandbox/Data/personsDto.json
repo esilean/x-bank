@@ -1,0 +1,14 @@
+﻿[
+  {
+    "codigo": 1234,
+    "nome": "Test Lean Bev",
+    "genero": 2,
+    "mesAniversario": 2
+  },
+  {
+    "codigo": 1235,
+    "nome": "Test Re Bev",
+    "genero": 0,
+    "mesAniversario": 0
+  }
+]
